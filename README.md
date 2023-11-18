@@ -22,7 +22,7 @@
 
 ## :books: `Funcionalidades`
 
-* <b>Função</b> `countPeople`: Verifica qual dos botões está pressionado, e adiciona ou decrementa 1 da variável "count"
+* <b>Função `countPeople`</b>: Verifica qual dos botões está pressionado, e adiciona ou decrementa 1 da variável "count"
   <br>
 * <b>Botões de entrada</b>: Quando pressionado, adiciona uma pessoa na contagem.
   <br>
